@@ -58,14 +58,7 @@ It includes **data cleaning**, **feature engineering**, **EDA**, and **machine l
 
 ---
 
-##  Results Summary
-| Model | Train Accuracy | Test Accuracy | Precision | Recall | Notes |
-|-------|----------------|---------------|------------|---------|--------|
-| Decision Tree | 100% | 87% | 0.82 | 0.83 | Overfitting |
-| Random Forest | 100% | **99%** | 1.00 | 0.98 | Best model |
-| Logistic Regression | 83% | 84% | 0.80 | 0.75 | Baseline model |
 
----
 
 ##  Visualization Examples
 - Cancellation rates by month, hotel, and channel.  
