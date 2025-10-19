@@ -1,12 +1,12 @@
 # Hotel_Project
-# 🏨 Hotel Booking Analysis and Cancellation Prediction using Python
+#  Hotel Booking Analysis and Cancellation Prediction using Python
 
 This project analyzes and predicts hotel booking cancellations using **Python**, combining data from multiple years of bookings.  
 It includes **data cleaning**, **feature engineering**, **EDA**, and **machine learning models** to uncover key business insights and improve hotel performance.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Combine multiple hotel booking datasets into a unified analytical dataset.  
 - Perform **Exploratory Data Analysis (EDA)** to uncover customer behavior and seasonal trends.  
 - Engineer new features (e.g., `total_stays`, `total_guests`, `booking_source`, `total_booking_revenue`).  
@@ -15,7 +15,7 @@ It includes **data cleaning**, **feature engineering**, **EDA**, and **machine l
 
 ---
 
-## 🧩 Tools & Libraries
+##  Tools & Libraries
 - **Python**  
 - **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**  
 - **Scikit-learn** (Decision Tree, Random Forest, Logistic Regression)  
@@ -23,7 +23,7 @@ It includes **data cleaning**, **feature engineering**, **EDA**, and **machine l
 
 ---
 
-## 🔍 Key Analysis Steps
+##  Key Analysis Steps
 1. **Data Integration & Cleaning**
    - Merged multiple CSV files into one dataset.  
    - Handled missing data (`children`, `country`, `agent`, `company`).  
@@ -50,7 +50,7 @@ It includes **data cleaning**, **feature engineering**, **EDA**, and **machine l
 
 ---
 
-## 📈 Business Insights
+##  Business Insights
 - Higher **lead time** and **fewer special requests** increase cancellation likelihood.  
 - **Family bookings** tend to stay longer and generate higher revenue.  
 - **Online TA/TO** is the dominant booking channel.  
@@ -58,7 +58,7 @@ It includes **data cleaning**, **feature engineering**, **EDA**, and **machine l
 
 ---
 
-## ✅ Results Summary
+##  Results Summary
 | Model | Train Accuracy | Test Accuracy | Precision | Recall | Notes |
 |-------|----------------|---------------|------------|---------|--------|
 | Decision Tree | 100% | 87% | 0.82 | 0.83 | Overfitting |
@@ -67,12 +67,10 @@ It includes **data cleaning**, **feature engineering**, **EDA**, and **machine l
 
 ---
 
-## 📊 Visualization Examples
+##  Visualization Examples
 - Cancellation rates by month, hotel, and channel.  
 - Revenue trends by year and country.  
 - Relationship between ADR, discount, and total revenue.  
 - Booking patterns by family size and customer type.
 
----
 
-## 👤 Author
